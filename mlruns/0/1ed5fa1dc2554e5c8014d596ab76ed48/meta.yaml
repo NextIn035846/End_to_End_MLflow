@@ -1,0 +1,15 @@
+artifact_uri: file:///T:/End_to_End_MLflow/mlruns/0/1ed5fa1dc2554e5c8014d596ab76ed48/artifacts
+end_time: 1707824628958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ed5fa1dc2554e5c8014d596ab76ed48
+run_name: redolent-zebra-144
+run_uuid: 1ed5fa1dc2554e5c8014d596ab76ed48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707824621147
+status: 3
+tags: []
+user_id: Acer

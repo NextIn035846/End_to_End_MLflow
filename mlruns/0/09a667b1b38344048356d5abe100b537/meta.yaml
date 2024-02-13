@@ -1,0 +1,15 @@
+artifact_uri: file:///T:/End_to_End_MLflow/mlruns/0/09a667b1b38344048356d5abe100b537/artifacts
+end_time: 1707823503519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09a667b1b38344048356d5abe100b537
+run_name: smiling-goose-9
+run_uuid: 09a667b1b38344048356d5abe100b537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707823499960
+status: 3
+tags: []
+user_id: Acer

@@ -1,0 +1,15 @@
+artifact_uri: file:///T:/End_to_End_MLflow/mlruns/0/35917e8b46b74ff5b53cba9da4cd077b/artifacts
+end_time: 1707824072749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35917e8b46b74ff5b53cba9da4cd077b
+run_name: crawling-whale-589
+run_uuid: 35917e8b46b74ff5b53cba9da4cd077b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707824064689
+status: 3
+tags: []
+user_id: Acer
